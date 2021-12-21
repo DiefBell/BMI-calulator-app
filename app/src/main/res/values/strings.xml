@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI app</string>
+    <string name="app_title">Check your perfect body weight and height ratio</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name = "height_label">cm</string>
+    <string name="weight_label">kg</string>
+</resources>
